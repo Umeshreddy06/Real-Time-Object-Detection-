@@ -1,0 +1,30 @@
+ASSIGNMENT 5 — 1 TO 2 MINUTE DEMO SCRIPT
+
+0:00–0:15
+"Hello, I am Umesh Chandra Reddy, Roll No. 40.
+This is my Assignment 5: Real-Time Object Detection and Logging Platform."
+
+0:15–0:30
+"Here is the modular project structure. main.py starts the application.
+detector.py handles YOLO detection, database.py handles MySQL logging,
+and ui.py contains the Streamlit dashboard."
+
+0:30–0:55
+"Now I am running the application. The webcam feed is displayed in the
+dashboard and YOLO is drawing bounding boxes with confidence scores."
+
+0:55–1:10
+"I can change the confidence threshold and select the object classes
+that I want to detect."
+
+1:10–1:30
+"Every qualifying detection is logged into MySQL with the timestamp,
+object class, confidence and bounding-box coordinates."
+
+1:30–1:45
+"Here are the recent logs in the dashboard and the same events are
+available in the MySQL detection_logs table."
+
+1:45–2:00
+"This completes my real-time object detection and event logging platform.
+Thank you."
